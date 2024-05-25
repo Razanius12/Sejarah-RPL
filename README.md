@@ -7,6 +7,10 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-stylish-portfolio/master/LICENSE)
 [![npm version](https://img.shields.io/npm/v/startbootstrap-stylish-portfolio.svg)](https://www.npmjs.com/package/startbootstrap-stylish-portfolio)
 
+## Preview
+
+**[View Live Preview](https://razanius12.github.io/Sejarah-RPL/)**
+
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
